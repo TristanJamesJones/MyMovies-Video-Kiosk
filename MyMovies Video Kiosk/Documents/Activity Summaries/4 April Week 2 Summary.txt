@@ -4,6 +4,7 @@
 | UI/UX Design	| Alexis	| 1 Hour	| 1 Hour	|
 | UI/UX Code	| Alexis	| 1 Hour	| 1 Hour	|
 | Project Admin	| Alexis	| 1 Hour	| 1 Hour	|
+| Testing & DB | Tristan | 2 Hour | 2 Hour|
 -----------------------------------------------------
 
-Total Time: 3 Hours
+Total Time: 5 Hours
